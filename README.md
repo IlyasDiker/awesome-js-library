@@ -6,6 +6,10 @@ fell free to send your [pull requests](https://github.com/IlyasDiker/awesome-js-
 nanogallery2 is the tool of choice for beautiful galleries with eye-catching effects, and user friendly lightbox for images and videos.
 [Visite here](https://nanogallery2.nanostudio.org/)
 
+### SwiperJS
+Swiper is the most modern free mobile touch slider with hardware accelerated transitions and amazing native behavior. It is intended to be used in mobile websites, mobile web apps, and mobile native/hybrid apps.
+[Visite here](https://swiperjs.com/)
+
 ### Algolia Places
 Turn any <input> into an address autocomplete
 [Visite here](https://community.algolia.com/places/)
