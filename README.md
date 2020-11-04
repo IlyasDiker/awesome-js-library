@@ -2,6 +2,10 @@
 Here you can find a collection of my favourite Js library, 
 fell free to send your [pull requests](https://github.com/IlyasDiker/awesome-js-library/pulls)
 
+### NanoGallery
+nanogallery2 is the tool of choice for beautiful galleries with eye-catching effects, and user friendly lightbox for images and videos.
+[Visite here](https://nanogallery2.nanostudio.org/)
+
 ### Algolia Places
 Turn any <input> into an address autocomplete
 [Visite here](https://community.algolia.com/places/)
