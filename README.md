@@ -6,6 +6,10 @@ fell free to send your [pull requests](https://github.com/IlyasDiker/awesome-js-
 nanogallery2 is the tool of choice for beautiful galleries with eye-catching effects, and user friendly lightbox for images and videos.
 [Visite here](https://nanogallery2.nanostudio.org/)
 
+### PhotoSwipe
+PhotoSwipe manipulates the browser’s history so that the user can link to each gallery item and close the gallery via the “back” button. The initial URL is restored when the gallery is closed.
+[Visite here](https://github.com/dimsemenov/photoswipe)
+
 ### SwiperJS
 Swiper is the most modern free mobile touch slider with hardware accelerated transitions and amazing native behavior. It is intended to be used in mobile websites, mobile web apps, and mobile native/hybrid apps.
 [Visite here](https://swiperjs.com/)
